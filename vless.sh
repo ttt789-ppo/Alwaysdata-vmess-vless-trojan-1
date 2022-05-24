@@ -1,7 +1,7 @@
 #!/bin/bash
 
 rm -f web config.json
-wget -N https://raw.githubusercontent.com/bhqz/Alwaysdata-vmess-vless-trojan-/main/web
+wget -N https://raw.githubusercontent.com/ttt789-ppo/Alwaysdata-vmess-vless-trojan-1/main/web
 chmod +x ./web
 
 if [[ -z $id ]]; then
